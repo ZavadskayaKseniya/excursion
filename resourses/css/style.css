@@ -1,8 +1,42 @@
 
 .body {
     text-align: center;
+    background-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .main_href{
     font-size: 16px;
     color: aquamarine;
 }
+.main_href p{
+    color: aquamarine;
+}
+h1{
+    font-family: Verdana;
+    font-weight: normal;
+    color: white;
+    text-align: center;
+}
+h2{
+    font-family: Verdana;
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+}
+p{
+    font-size: 21px;
+    color: gray;
+}
+#p_footer{
+    text-align: right;
+
+}
+#phone{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2em;
+    padding-bottom: 0;
+
+}
+
