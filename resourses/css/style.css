@@ -1,9 +1,4 @@
-
-.body {
-    text-align: center;
-    background-color: black;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-}
+/* basics */
 .main_href{
     font-size: 16px;
     color: aquamarine;
@@ -27,9 +22,12 @@ p{
     font-size: 21px;
     color: gray;
 }
-#p_footer{
-    text-align: right;
-
+/* header */
+/* main */
+.body {
+    text-align: center;
+    background-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 #phone{
     display:block;
@@ -37,6 +35,13 @@ p{
     margin-right: auto;
     margin-top: 2em;
     padding-bottom: 0;
+
+}
+
+/* footer */
+
+#p_footer{
+    text-align: right;
 
 }
 
